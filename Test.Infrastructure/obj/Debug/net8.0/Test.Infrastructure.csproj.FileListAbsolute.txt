@@ -1,0 +1,14 @@
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\bin\Debug\net8.0\Test.Infrastructure.deps.json
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\bin\Debug\net8.0\Test.Infrastructure.runtimeconfig.json
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\bin\Debug\net8.0\Test.Infrastructure.dll
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\bin\Debug\net8.0\Test.Infrastructure.pdb
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.csproj.AssemblyReference.cache
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.AssemblyInfoInputs.cache
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.AssemblyInfo.cs
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.dll
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\refint\Test.Infrastructure.dll
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.pdb
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.genruntimeconfig.cache
+D:\SQL\CodeFirst\TestApp\Test.Infrastructure\obj\Debug\net8.0\ref\Test.Infrastructure.dll

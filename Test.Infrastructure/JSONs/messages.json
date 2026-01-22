@@ -1,0 +1,443 @@
+[
+  {
+    "id": "msg-001-4a8f1b01",
+    "senderId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "receiverId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "content": "Hey, did you finish the API changes?",
+    "createdAt": "2026-01-01T09:00:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-002-92bc1102",
+    "senderId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "receiverId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "content": "Almost, just fixing validation.",
+    "createdAt": "2026-01-01T09:02:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-003-ff21ac03",
+    "senderId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "receiverId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "content": "Nice, ping me when ready.",
+    "createdAt": "2026-01-01T09:03:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-004-bac91204",
+    "senderId": "f52b5f4d-8c4e-4b3a-91fd-3c79cdb1c903",
+    "receiverId": "da3a7cb3-5d90-45d2-83d9-9f8a2d92a105",
+    "content": "Can you review my UI mockups?",
+    "createdAt": "2026-01-01T11:10:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-005-acde3305",
+    "senderId": "da3a7cb3-5d90-45d2-83d9-9f8a2d92a105",
+    "receiverId": "f52b5f4d-8c4e-4b3a-91fd-3c79cdb1c903",
+    "content": "Sure, send them.",
+    "createdAt": "2026-01-01T11:12:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-006-219fa006",
+    "senderId": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "receiverId": "e38db6c0-7b92-4f0f-b76a-d7b7f1aab107",
+    "content": "Using Docker Compose?",
+    "createdAt": "2026-01-02T08:30:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-007-77cbe007",
+    "senderId": "e38db6c0-7b92-4f0f-b76a-d7b7f1aab107",
+    "receiverId": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "content": "Yes, makes networking easier.",
+    "createdAt": "2026-01-02T08:33:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-008-19aa2008",
+    "senderId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "receiverId": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "content": "Loved your last blog post.",
+    "createdAt": "2026-01-02T12:00:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-009-b211c009",
+    "senderId": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "receiverId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "content": "Thanks a lot!",
+    "createdAt": "2026-01-02T12:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-010-a88cc010",
+    "senderId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "receiverId": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "content": "How do you track analytics?",
+    "createdAt": "2026-01-03T09:30:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-011-acde1011",
+    "senderId": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "receiverId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "content": "Mostly Firebase and custom events.",
+    "createdAt": "2026-01-03T09:32:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-012-acde1012",
+    "senderId": "2df3b7c4-29c2-41b2-b2cb-51c8f20d8112",
+    "receiverId": "4b46a84d-21a3-44db-9d2f-68c2f51f3113",
+    "content": "QA found a bug in checkout.",
+    "createdAt": "2026-01-03T11:10:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-013-acde1013",
+    "senderId": "4b46a84d-21a3-44db-9d2f-68c2f51f3113",
+    "receiverId": "2df3b7c4-29c2-41b2-b2cb-51c8f20d8112",
+    "content": "Thanks, I’ll fix it today.",
+    "createdAt": "2026-01-03T11:12:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-014-acde1014",
+    "senderId": "5d7e09fa-b71a-44c5-9e1f-9b4e4b09f114",
+    "receiverId": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "content": "Any cloud provider recommendations?",
+    "createdAt": "2026-01-04T08:00:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-015-acde1015",
+    "senderId": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "receiverId": "5d7e09fa-b71a-44c5-9e1f-9b4e4b09f114",
+    "content": "Azure is solid for .NET.",
+    "createdAt": "2026-01-04T08:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-016-acde1016",
+    "senderId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "receiverId": "bbcfb1c7-d4a6-46fa-a9cc-5c9df8d07117",
+    "content": "Meeting moved to tomorrow.",
+    "createdAt": "2026-01-04T15:20:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-017-acde1017",
+    "senderId": "bbcfb1c7-d4a6-46fa-a9cc-5c9df8d07117",
+    "receiverId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "content": "Got it, thanks.",
+    "createdAt": "2026-01-04T15:22:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-018-acde1018",
+    "senderId": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "receiverId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "content": "Want to discuss the startup idea?",
+    "createdAt": "2026-01-05T10:00:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-019-acde1019",
+    "senderId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "receiverId": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "content": "Yes, let’s do it later today.",
+    "createdAt": "2026-01-05T10:05:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-020-acde1020",
+    "senderId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "receiverId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "content": "Can you help me with React hooks?",
+    "createdAt": "2026-01-06T09:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-021-acde1021",
+    "senderId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "receiverId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "content": "Sure, what part?",
+    "createdAt": "2026-01-06T09:01:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-022-acde1022",
+    "senderId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "receiverId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "content": "useEffect dependencies confuse me.",
+    "createdAt": "2026-01-06T09:03:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-023-acde1023",
+    "senderId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "receiverId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "content": "They control when the effect runs.",
+    "createdAt": "2026-01-06T09:05:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-024-acde1024",
+    "senderId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "receiverId": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "content": "Ahh that helps a lot.",
+    "createdAt": "2026-01-06T09:06:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-025-acde1025",
+    "senderId": "c91e9189-281f-48c3-b8ad-1b20f4f10104",
+    "receiverId": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "content": "Security scan passed.",
+    "createdAt": "2026-01-07T10:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-026-acde1026",
+    "senderId": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "receiverId": "c91e9189-281f-48c3-b8ad-1b20f4f10104",
+    "content": "Great news!",
+    "createdAt": "2026-01-07T10:01:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-027-acde1027",
+    "senderId": "e38db6c0-7b92-4f0f-b76a-d7b7f1aab107",
+    "receiverId": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "content": "Want to test the beta build?",
+    "createdAt": "2026-01-08T14:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-028-acde1028",
+    "senderId": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "receiverId": "e38db6c0-7b92-4f0f-b76a-d7b7f1aab107",
+    "content": "Sure, send the link.",
+    "createdAt": "2026-01-08T14:01:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-029-acde1029",
+    "senderId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "receiverId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "content": "Presentation slides ready.",
+    "createdAt": "2026-01-09T09:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-030-acde1030",
+    "senderId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "receiverId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "content": "Perfect, thanks.",
+    "createdAt": "2026-01-09T09:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-031-acde1031",
+    "senderId": "4b46a84d-21a3-44db-9d2f-68c2f51f3113",
+    "receiverId": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "content": "Java service deployed.",
+    "createdAt": "2026-01-10T11:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-032-acde1032",
+    "senderId": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "receiverId": "4b46a84d-21a3-44db-9d2f-68c2f51f3113",
+    "content": "Monitoring looks good.",
+    "createdAt": "2026-01-10T11:05:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-033-acde1033",
+    "senderId": "5d7e09fa-b71a-44c5-9e1f-9b4e4b09f114",
+    "receiverId": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "content": "Smart contract deployed.",
+    "createdAt": "2026-01-11T13:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-034-acde1034",
+    "senderId": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "receiverId": "5d7e09fa-b71a-44c5-9e1f-9b4e4b09f114",
+    "content": "Awesome work.",
+    "createdAt": "2026-01-11T13:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-035-acde1035",
+    "senderId": "bbcfb1c7-d4a6-46fa-a9cc-5c9df8d07117",
+    "receiverId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "content": "Interviews scheduled.",
+    "createdAt": "2026-01-12T10:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-036-acde1036",
+    "senderId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "receiverId": "bbcfb1c7-d4a6-46fa-a9cc-5c9df8d07117",
+    "content": "Thanks for the update.",
+    "createdAt": "2026-01-12T10:01:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-037-acde1037",
+    "senderId": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "receiverId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "content": "Want to co-author an article?",
+    "createdAt": "2026-01-13T15:00:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-038-acde1038",
+    "senderId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "receiverId": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "content": "Yes, sounds great.",
+    "createdAt": "2026-01-13T15:05:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-039-acde1039",
+    "senderId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "receiverId": "f52b5f4d-8c4e-4b3a-91fd-3c79cdb1c903",
+    "content": "Your design tips helped!",
+    "createdAt": "2026-01-14T09:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-040-acde1040",
+    "senderId": "f52b5f4d-8c4e-4b3a-91fd-3c79cdb1c903",
+    "receiverId": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "content": "Happy to hear that 😊",
+    "createdAt": "2026-01-14T09:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-041-acde1041",
+    "senderId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "receiverId": "da3a7cb3-5d90-45d2-83d9-9f8a2d92a105",
+    "content": "Artwork campaign looks great.",
+    "createdAt": "2026-01-15T11:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-042-acde1042",
+    "senderId": "da3a7cb3-5d90-45d2-83d9-9f8a2d92a105",
+    "receiverId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "content": "Thanks! Glad you liked it.",
+    "createdAt": "2026-01-15T11:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-043-acde1043",
+    "senderId": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "receiverId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "content": "Mobile build ready for testing.",
+    "createdAt": "2026-01-16T16:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-044-acde1044",
+    "senderId": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "receiverId": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "content": "I’ll test it tonight.",
+    "createdAt": "2026-01-16T16:05:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-045-acde1045",
+    "senderId": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "receiverId": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "content": "Logs look clean.",
+    "createdAt": "2026-01-17T10:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-046-acde1046",
+    "senderId": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "receiverId": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "content": "Great 👍",
+    "createdAt": "2026-01-17T10:01:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-047-acde1047",
+    "senderId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "receiverId": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "content": "Roadmap approved.",
+    "createdAt": "2026-01-18T09:00:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-048-acde1048",
+    "senderId": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "receiverId": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "content": "Perfect, let’s move forward.",
+    "createdAt": "2026-01-18T09:02:00Z",
+    "read": true
+  },
+
+  {
+    "id": "msg-049-acde1049",
+    "senderId": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "receiverId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "content": "Publishing tomorrow.",
+    "createdAt": "2026-01-19T14:00:00Z",
+    "read": false
+  },
+
+  {
+    "id": "msg-050-acde1050",
+    "senderId": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "receiverId": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "content": "Great timing.",
+    "createdAt": "2026-01-19T14:01:00Z",
+    "read": false
+  }
+]

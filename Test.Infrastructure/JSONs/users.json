@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1c7a44e8-6c82-4a51-8e77-15bdfd5b8a01",
+    "username": "bozhidar",
+    "email": "bozhidar@example.com",
+    "avatar": "/avatars/u1.png",
+    "bio": "Backend developer • ASP.NET • Linux",
+    "createdAt": "2024-12-01T09:10:00Z"
+  },
+  {
+    "id": "a6a7d7a9-43e5-4ad1-9c89-41287b4d3902",
+    "username": "alex",
+    "email": "alex@example.com",
+    "avatar": "/avatars/u2.png",
+    "bio": "Frontend dev • React",
+    "createdAt": "2024-12-03T11:20:00Z"
+  },
+  {
+    "id": "f52b5f4d-8c4e-4b3a-91fd-3c79cdb1c903",
+    "username": "maria",
+    "email": "maria@example.com",
+    "avatar": "/avatars/u3.png",
+    "bio": "UI / UX designer",
+    "createdAt": "2024-12-05T15:45:00Z"
+  },
+  {
+    "id": "c91e9189-281f-48c3-b8ad-1b20f4f10104",
+    "username": "nikola",
+    "email": "nikola@example.com",
+    "avatar": "/avatars/u4.png",
+    "bio": "Cybersecurity student",
+    "createdAt": "2024-12-06T10:00:00Z"
+  },
+  {
+    "id": "da3a7cb3-5d90-45d2-83d9-9f8a2d92a105",
+    "username": "elena",
+    "email": "elena@example.com",
+    "avatar": "/avatars/u5.png",
+    "bio": "Digital artist",
+    "createdAt": "2024-12-07T12:40:00Z"
+  },
+  {
+    "id": "b9f4c2d1-4d94-4ff6-87aa-0ccf933bf106",
+    "username": "ivan",
+    "email": "ivan@example.com",
+    "avatar": "/avatars/u6.png",
+    "bio": "DevOps • Docker • Kubernetes",
+    "createdAt": "2024-12-09T08:10:00Z"
+  },
+  {
+    "id": "e38db6c0-7b92-4f0f-b76a-d7b7f1aab107",
+    "username": "petar",
+    "email": "petar@example.com",
+    "avatar": "/avatars/u7.png",
+    "bio": "Game developer",
+    "createdAt": "2024-12-10T18:30:00Z"
+  },
+  {
+    "id": "17a7f919-62b3-4b1b-94bb-8cf80b8aa108",
+    "username": "sofia",
+    "email": "sofia@example.com",
+    "avatar": "/avatars/u8.png",
+    "bio": "Computer science student",
+    "createdAt": "2024-12-11T13:00:00Z"
+  },
+  {
+    "id": "c6fdb72c-65b1-42df-bd03-4a3ff37f6109",
+    "username": "george",
+    "email": "george@example.com",
+    "avatar": "/avatars/u9.png",
+    "bio": "Tech blogger",
+    "createdAt": "2024-12-12T16:00:00Z"
+  },
+  {
+    "id": "88dfb5b0-12c2-42d6-bb0d-9eaa9e9a3110",
+    "username": "victoria",
+    "email": "victoria@example.com",
+    "avatar": "/avatars/u10.png",
+    "bio": "Marketing specialist",
+    "createdAt": "2024-12-14T09:20:00Z"
+  },
+  {
+    "id": "bf8ad623-ff4a-44b3-b2b2-109cbe8a2111",
+    "username": "daniel",
+    "email": "daniel@example.com",
+    "avatar": "/avatars/u11.png",
+    "bio": "Mobile developer",
+    "createdAt": "2024-12-15T14:00:00Z"
+  },
+  {
+    "id": "2df3b7c4-29c2-41b2-b2cb-51c8f20d8112",
+    "username": "teodora",
+    "email": "teodora@example.com",
+    "avatar": "/avatars/u12.png",
+    "bio": "QA engineer",
+    "createdAt": "2024-12-16T11:10:00Z"
+  },
+  {
+    "id": "4b46a84d-21a3-44db-9d2f-68c2f51f3113",
+    "username": "martin",
+    "email": "martin@example.com",
+    "avatar": "/avatars/u13.png",
+    "bio": "Java developer",
+    "createdAt": "2024-12-17T10:10:00Z"
+  },
+  {
+    "id": "5d7e09fa-b71a-44c5-9e1f-9b4e4b09f114",
+    "username": "kaloyan",
+    "email": "kaloyan@example.com",
+    "avatar": "/avatars/u14.png",
+    "bio": "Blockchain enthusiast",
+    "createdAt": "2024-12-18T19:30:00Z"
+  },
+  {
+    "id": "82b1e839-f782-4c16-a1c2-2f8f1a2a5115",
+    "username": "irina",
+    "email": "irina@example.com",
+    "avatar": "/avatars/u15.png",
+    "bio": "Product manager",
+    "createdAt": "2024-12-19T08:50:00Z"
+  },
+  {
+    "id": "aa9aef99-4d6f-4b7a-b3a7-0b2b8d731116",
+    "username": "stefan",
+    "email": "stefan@example.com",
+    "avatar": "/avatars/u16.png",
+    "bio": "Cloud engineer",
+    "createdAt": "2024-12-20T12:10:00Z"
+  },
+  {
+    "id": "bbcfb1c7-d4a6-46fa-a9cc-5c9df8d07117",
+    "username": "nadya",
+    "email": "nadya@example.com",
+    "avatar": "/avatars/u17.png",
+    "bio": "HR & recruiting",
+    "createdAt": "2024-12-21T14:15:00Z"
+  },
+  {
+    "id": "d14dc8ad-3b9f-4f1a-b50a-82d0c3e71118",
+    "username": "rado",
+    "email": "rado@example.com",
+    "avatar": "/avatars/u18.png",
+    "bio": "Startup founder",
+    "createdAt": "2024-12-22T17:40:00Z"
+  }
+]

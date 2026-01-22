@@ -1,0 +1,17 @@
+D:\SQL\CodeFirst\TestApp\Test.Core\bin\Debug\net8.0\Test.Core.deps.json
+D:\SQL\CodeFirst\TestApp\Test.Core\bin\Debug\net8.0\Test.Core.runtimeconfig.json
+D:\SQL\CodeFirst\TestApp\Test.Core\bin\Debug\net8.0\Test.Core.dll
+D:\SQL\CodeFirst\TestApp\Test.Core\bin\Debug\net8.0\Test.Core.pdb
+D:\SQL\CodeFirst\TestApp\Test.Core\bin\Debug\net8.0\Test.Infrastructure.dll
+D:\SQL\CodeFirst\TestApp\Test.Core\bin\Debug\net8.0\Test.Infrastructure.pdb
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.csproj.AssemblyReference.cache
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.AssemblyInfoInputs.cache
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.AssemblyInfo.cs
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.csproj.CoreCompileInputs.cache
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.csproj.Up2Date
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.dll
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\refint\Test.Core.dll
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.pdb
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\Test.Core.genruntimeconfig.cache
+D:\SQL\CodeFirst\TestApp\Test.Core\obj\Debug\net8.0\ref\Test.Core.dll
